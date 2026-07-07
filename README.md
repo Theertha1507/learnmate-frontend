@@ -4,7 +4,7 @@
 
 This repo is the React frontend for LearnMate — an agentic AI coach that assesses a student's skill level and stated goals, then generates a personalized, adaptive course roadmap powered by **IBM Granite** via **IBM watsonx.ai**.
 
-Live app: *(add your Vercel URL here)*
+Live app: (https://learnmate-frontend-delta.vercel.app/)
 Backend repo: [learnmate-backend](https://github.com/Theertha1507/learnmate-backend)
 
 ---
